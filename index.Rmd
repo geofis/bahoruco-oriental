@@ -1,0 +1,65 @@
+---
+title: "Bahoruco Oriental <br> Las dos cosas que sé"
+author: José Ramón Martínez Batlle
+  <br> joseramon@geografiafisica.org
+  <br> jmartinez19@uasd.edu.do
+date: "24 de febrero, 2021 <br> Santo Domingo, República Dominicana  <br> https://geografiafisica.org <br> <br> URL de esta presentación <br> https://geofis.github.io/bahoruco-oriental"
+output:
+  revealjs::revealjs_presentation:
+    template: defaultmodificada.html
+    transition: fade
+bibliography: biblio.bib
+csl: apa.csl
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<!-- # ![](img/pindell.gif){width=70%} -->
+
+# ![](img/pindell.mp4){width=70%}
+
+# ![](img/geologia_rd.jpg)
+
+# ![](img/geologia.jpg)
+
+# ![](img/geologia_detalle.jpg)
+
+# ![](img/geomorphons.jpg)
+
+# ![](img/reserva_biosfera.jpg){width=50%}
+
+# ![](img/aapp.jpg)
+
+# ![](img/geomorphons_bo.jpg)
+
+# ![](img/pedimento_portada_articulo.jpg)
+
+# ![](img/pedimento_geologia.jpg)
+
+# ![](img/pedimento_modelo_evolutivo_penck.jpg)
+
+# ![](img/pedimento_modelo_evolutivo_bahoruco.jpg)
+
+# ![](img/pedimento_ejemplo_bahoruco_occ.jpg)
+
+# ![](img/pedimento_cortico_cachote.jpg)
+
+# ![](img/pedimento_posible_configuracion.jpg)
+
+# ![](img/pedimento_configuracion_actual.jpg)
+
+# ![](img/pedimento_muestras_flora.jpg)
+
+# ![](img/pedimento_diversidad_beta.jpg)
+
+# ![](img/mapas_anuales_perdida_bosque.jpg)
+
+# ![](img/mapas_anuales_perdida_bosque_parches_1_ha.jpg)
+
+# ![](img/mapas_anuales_modis.jpg)
+
+
