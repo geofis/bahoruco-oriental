@@ -1,1 +1,0 @@
-/home/jose/Documentos/grass/geomorphon_style_estilos_de_geomorfonos_para_qgis.qml
