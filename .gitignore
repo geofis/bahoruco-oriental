@@ -37,3 +37,5 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+geomorphon_style_estilos_de_geomorfonos_para_qgis.qml
